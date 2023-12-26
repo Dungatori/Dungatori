@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dungatori
+- 👀 I’m interested in technology and coding
+- 🌱 I’m currently learning html and css
